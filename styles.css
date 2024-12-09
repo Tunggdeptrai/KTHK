@@ -1,0 +1,14 @@
+.coccoc {
+    width: 10%;
+    margin-top: 10px;
+    display: flex;
+    gap: 20px;
+}
+.coccoc1 img{
+    width: 30%;
+    margin-top: 10px;
+}
+.coccoc2 img{
+    width: 30%;
+    margin-top: 10px;
+}
